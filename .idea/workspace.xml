@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b4ee0fd-2e41-48b3-80dd-42521950415e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ovmrz073" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Ygg3edBBjm7JWCBjm5vjQb8o1T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Cargo.Build `Test day3::test`.executor": "Run",
+    "Cargo.Build `Test test::parse_room`.executor": "Run",
+    "Cargo.Build `Test test::test_checksum`.executor": "Run",
+    "Cargo.Build `Test test::test_code_least`.executor": "Run",
+    "Cargo.Build `Test test::test_num_support_ssl`.executor": "Run",
+    "Cargo.Build `Test tests::code_case1`.executor": "Run",
+    "Cargo.Build `Test tests::parsing`.executor": "Run",
+    "Cargo.Build `Test tests::visited_twice`.executor": "Run",
+    "Cargo.Run day1.executor": "Run",
+    "Cargo.Run day2.executor": "Run",
+    "Cargo.Run day3.executor": "Run",
+    "Cargo.Run day4.executor": "Run",
+    "Cargo.Run day5.executor": "Run",
+    "Cargo.Run day6.executor": "Run",
+    "Cargo.Run day7.executor": "Run",
+    "Cargo.Test day1::tests.executor": "Run",
+    "Cargo.Test day2::tests.executor": "Run",
+    "Cargo.Test day3::test.executor": "Run",
+    "Cargo.Test day6::test.executor": "Run",
+    "Cargo.Test day7::test.executor": "Run",
+    "Cargo.Test test::invalid_triangle.executor": "Run",
+    "Cargo.Test test::parse_room.executor": "Run",
+    "Cargo.Test test::parsing.executor": "Run",
+    "Cargo.Test test::test_checksum.executor": "Run",
+    "Cargo.Test test::test_cipher.executor": "Run",
+    "Cargo.Test test::test_code.executor": "Debug",
+    "Cargo.Test test::test_code_least.executor": "Run",
+    "Cargo.Test test::test_code_most.executor": "Run",
+    "Cargo.Test test::test_num_support_ssl.executor": "Run",
+    "Cargo.Test test::test_num_valid_ips.executor": "Run",
+    "Cargo.Test test::test_password.executor": "Run",
+    "Cargo.Test test::test_password2.executor": "Run",
+    "Cargo.Test test::triangle_col_wise.executor": "Run",
+    "Cargo.Test tests::code_case1.executor": "Run",
+    "Cargo.Test tests::code_case_part_1.executor": "Run",
+    "Cargo.Test tests::code_case_part_2.executor": "Run",
+    "Cargo.Test tests::parsing.executor": "Run",
+    "Cargo.Test tests::visited_twice.executor": "Run",
+    "Cargo.Test tests::walking.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ludirehak/rustprojects/advent-of-code-2016",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.make",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Cargo.Run day7">
+    <configuration name="Run day7" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package advent-of-code-2016 --bin day7" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test day7::test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package advent-of-code-2016 --bin day7 test" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::parsing" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package advent-of-code-2016 --bin day7 test::parsing -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::test_num_support_ssl" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package advent-of-code-2016 --bin day7 test::test_num_support_ssl -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test test::test_num_valid_ips" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package advent-of-code-2016 --bin day7 test::test_num_valid_ips -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run day7" />
+        <item itemvalue="Cargo.Test test::test_num_support_ssl" />
+        <item itemvalue="Cargo.Test test::test_num_valid_ips" />
+        <item itemvalue="Cargo.Test test::parsing" />
+        <item itemvalue="Cargo.Test day7::test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b4ee0fd-2e41-48b3-80dd-42521950415e" name="Changes" comment="" />
+      <created>1700952438543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700952438543</updated>
+      <workItem from="1700952439556" duration="43490000" />
+      <workItem from="1701289826596" duration="551000" />
+      <workItem from="1701290385403" duration="9997000" />
+      <workItem from="1701323514630" duration="327000" />
+      <workItem from="1701323872290" duration="21682000" />
+      <workItem from="1701462710374" duration="3577000" />
+      <workItem from="1701562160196" duration="5822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
