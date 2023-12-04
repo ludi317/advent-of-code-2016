@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b4ee0fd-2e41-48b3-80dd-42521950415e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +83,7 @@
     "Cargo.Test tests::code_case_part_1.executor": "Run",
     "Cargo.Test tests::code_case_part_2.executor": "Run",
     "Cargo.Test tests::parsing.executor": "Run",
+    "Cargo.Test tests::test_part_one.executor": "Run",
     "Cargo.Test tests::visited_twice.executor": "Run",
     "Cargo.Test tests::walking.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -99,26 +100,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run day7">
+  <component name="RunManager" selected="Cargo.Test tests::test_part_one">
     <configuration name="Run day7" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package advent-of-code-2016 --bin day7" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <envs />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test day7::test" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
-      <option name="command" value="test --package advent-of-code-2016 --bin day7 test" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
       <option name="emulateTerminal" value="true" />
       <option name="channel" value="DEFAULT" />
@@ -185,13 +169,30 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test tests::test_part_one" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package advent_of_code --bin 08 tests::test_part_one -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="emulateTerminal" value="true" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Test tests::test_part_one" />
         <item itemvalue="Cargo.Run day7" />
         <item itemvalue="Cargo.Test test::test_num_support_ssl" />
         <item itemvalue="Cargo.Test test::test_num_valid_ips" />
         <item itemvalue="Cargo.Test test::parsing" />
-        <item itemvalue="Cargo.Test day7::test" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,7 @@
       <workItem from="1701323514630" duration="327000" />
       <workItem from="1701323872290" duration="21682000" />
       <workItem from="1701462710374" duration="3577000" />
-      <workItem from="1701562160196" duration="5822000" />
+      <workItem from="1701562160196" duration="7457000" />
     </task>
     <servers />
   </component>
